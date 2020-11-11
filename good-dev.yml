@@ -1,1 +1,2 @@
-test good_dev
+config:
+  info:master branch.springcloud-config/good-dev.yml version=1
